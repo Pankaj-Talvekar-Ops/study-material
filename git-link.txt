@@ -1,2 +1,4 @@
 Complete Git & GitHub Tutorial  by Piyush Garg
 video link:- https://www.youtube.com/watch?v=TsSjgkfAeJ0  (part-1)
+Complete Git & GitHub Tutorial | Branching And Merging
+video link:- https://youtu.be/LF-rK5yPzVM?si=TylFuO7Y1uM65VA4 (part-2)
